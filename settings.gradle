@@ -1,0 +1,2 @@
+rootProject.name = "Bluetooth_ToggleButton_JAVA"
+include ':app'
